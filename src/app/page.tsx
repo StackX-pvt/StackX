@@ -85,12 +85,12 @@ const testimonials = [
     projectType: "Web Development",
   },
   {
-    name: "Sarah Mitchell",
-    company: "AdScale Inc.",
+    name: "K Adhinarayana",
+    company: "Skml Motion Pictures",
     feedback:
-      "The ad tech platform they built handles millions of impressions daily without breaking a sweat. Their technical expertise is truly world-class.",
+      "They built me a professional website that looks great and made my work as a film distributor much easier.",
     rating: 5,
-    projectType: "Ad Tech",
+    projectType: "Web Development",
   },
   {
     name: "Amit Patel",
@@ -112,13 +112,7 @@ const testimonials = [
 
 const clientLogos = [
   "Communize",
-  "AdScale",
-  "FlowSync",
-  "TechNova",
-  "DataBridge",
-  "CloudPeak",
-  "NexGen",
-  "Finora",
+  "Skml Motion Pictures"
 ];
 
 /* ── Component ────────────────────────────────────────── */

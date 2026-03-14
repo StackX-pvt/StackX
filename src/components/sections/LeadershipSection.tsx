@@ -26,15 +26,15 @@ const team = [
         tags: ["Strategic Leadership", "Full-Stack Architecture", "Product Vision"],
     },
     {
-        id: "a-roshan",
-        name: "A. Roshan",
+        id: "p-roshan",
+        name: "P. Roshan",
         role: "Co-Founder",
         photo: "/team/roshan.jpeg",
         isFounder: false,
         shortBio:
             "Strategic co-founder and business development expert who builds client relationships, forges key partnerships, and drives StackX\u2019s growth engine.",
         fullBio: [
-            "A. Roshan co-founded StackX alongside Nuraj with a focus on business development, partnerships, and operational excellence. He plays a critical role in scaling the company\u2019s reach and ensuring clients receive consistent, high-quality service throughout their journey with StackX.",
+            "P. Roshan co-founded StackX alongside Nuraj with a focus on business development, partnerships, and operational excellence. He plays a critical role in scaling the company\u2019s reach and ensuring clients receive consistent, high-quality service throughout their journey with StackX.",
             "Roshan\u2019s strength lies in building long-term relationships \u2014 whether with clients, vendors, or strategic partners. He ensures that StackX\u2019s mission of accessible premium technology resonates with the right audiences across industries and geographies.",
             "His collaborative approach and operational rigor form the backbone of StackX\u2019s growth, helping the company maintain its 98% client retention rate while continuously expanding into new markets.",
         ],

@@ -15,7 +15,7 @@ const categories = [
         title: "Web Development",
         tagline: "Custom-built digital experiences",
         color: "from-primary to-primary-deep",
-        pricing: "$3,000",
+        pricing: "₹5,000",
         techStack: ["React", "Next.js", "TypeScript", "Node.js", "PostgreSQL", "AWS", "Vercel"],
         items: [
             {
@@ -43,7 +43,7 @@ const categories = [
         title: "Business Automation",
         tagline: "Streamline & scale your operations",
         color: "from-accent to-accent-dark",
-        pricing: "$2,500",
+        pricing: "₹2,500",
         techStack: ["Python", "Zapier", "n8n", "Selenium", "REST APIs", "Webhooks", "Docker"],
         items: [
             {
@@ -71,7 +71,7 @@ const categories = [
         title: "Ad Tech Solutions",
         tagline: "Data-driven advertising technology",
         color: "from-primary-light to-accent",
-        pricing: "$5,000",
+        pricing: "₹5,000",
         techStack: ["Python", "React", "BigQuery", "Google Ads API", "Meta API", "Kafka", "Redis"],
         items: [
             {
